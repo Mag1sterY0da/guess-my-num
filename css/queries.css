@@ -27,9 +27,6 @@
 /*************************/
 
 @media (max-width: 47em) {
-  html {
-    font-size: 50%;
-  }
   h1 {
     font-size: 3rem;
   }
