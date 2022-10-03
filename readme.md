@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="#about-the-project">About The Project</a> •
-  <a href="#about-the-project">Demo</a> •
+  <a href="#demo">Demo</a> •
   <a href="#download">Download</a> 
 </p>
 
