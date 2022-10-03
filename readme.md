@@ -18,8 +18,7 @@ Program is generating random number in specified range and all you need to do is
 you get the same score as guessed number, but when you didn't guess - the winning score is decreasing, and program shows
 if your number is too low or too high from winning one. The goal of this game is to get as many scores as possible.
 Program also has checking for input and end of the game, when you didn't guess during you tries. This project was built
-during my [JS course](https://www.udemy.com/course/the-complete-javascript-course/). I wrote only JS code; all markup
-was already completed.
+during my [JS course](https://www.udemy.com/course/the-complete-javascript-course/). I wrote JS code and modified CSS code for responsive with given markup.
 
 ## Demo
 
