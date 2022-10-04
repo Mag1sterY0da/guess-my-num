@@ -12,7 +12,7 @@ const againBtnEl = document.querySelector('.again');
 const guessEl = document.querySelector('.guess');
 const messageEl = document.querySelector('.message');
 const numberEl = document.querySelector('.number');
-const scoreEl = document.querySelector('.score');
+const scoreEl = document.querySelector('.check-section');
 const highscoreEl = document.querySelector('.highscore');
 
 // Start game

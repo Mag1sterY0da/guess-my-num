@@ -33,13 +33,13 @@ main {
   justify-content: space-around;
 }
 
-.left {
+.check-section {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
-.right {
+.score-section {
   display: flex;
   flex-direction: column;
   gap: 2rem;
