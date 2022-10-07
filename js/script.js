@@ -12,7 +12,7 @@ const againBtnEl = document.querySelector('.again');
 const guessEl = document.querySelector('.guess');
 const messageEl = document.querySelector('.message');
 const numberEl = document.querySelector('.number');
-const scoreEl = document.querySelector('.check-section');
+const scoreEl = document.querySelector('.score');
 const highscoreEl = document.querySelector('.highscore');
 
 // Start game
@@ -53,6 +53,7 @@ checkBtnEl.addEventListener('click', () => {
 againBtnEl.addEventListener('click', () => {
   score = 20;
   secretNumber = Math.trunc(Math.random() * 20) + 1;
+  bodyEl.style.backgroundColor = '#222';
   messageEl.textContent = 'Start guessing...';
   scoreEl.textContent = score.toString();
   numberEl.textContent = '?';
